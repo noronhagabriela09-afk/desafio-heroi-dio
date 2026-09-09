@@ -1,10 +1,14 @@
+import java.util.Scanner;
  public class desafio{
+
 public static void main(String[] args)  throws Exception{
 System.setOut(new java.io.PrintStream(System.out, true, "UTF-8"));
+Scanner scanner = new Scanner(System.in);
 
 
-String heroi = "Felipe";
-int xp = 3500;
+String heroi = scanner.nextLine();
+int xp = scanner.nextInt();
+
 String nivel;
 
 if (xp <= 1000){
