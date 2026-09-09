@@ -8,7 +8,7 @@ O programa recebe o nome e a quantidade de XP, experiência, de um herói e reto
 
 Funcionalidades
 
-Classificação automática do nível do herói com base no XP, usando estrutura condicional if, else if, else. Exibição de uma mensagem final com o nome do herói e o nível atingido. Entrada de dados interativa via Scanner, funcionalidade que decidi adicionar por conta própria, permitindo que o próprio usuário digite o nome e o XP do herói, em vez de valores fixos no código.
+Classificação automática do nível do herói com base no XP, usando estrutura condicional if, else if, else. Exibição de uma mensagem final com o nome do herói e o nível atingido. Entrada de dados interativa via Scanner, funcionalidade que decidi adicionar, permitindo que o próprio usuário digite o nome e o XP do herói, em vez de valores fixos no código.
 
 Tecnologias utilizadas
 
